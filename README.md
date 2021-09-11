@@ -1,3 +1,4 @@
+
 ## Project Overview:
 To detection Pneumonia we need to detect Inflammation of the lungs. 
 In this project, we built an algorithm to detect a visual signal for pneumonia in medical images i.e. to automatically locate lung opacities on chest radiographs.
@@ -21,16 +22,16 @@ The dataset utilized in this study comprised a complete of 5,856 chest X-ray ima
 We used Transfer Learning and trained different models on the dataset and monitored their loss and accuracy vs epoch as shown below
 
 ### Inception V3 Accuracy & Loss
-<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Inception V3 Accuracy.png" width=400>
+<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Inception%20V3%20Accuracy.jpg" width=400>
 
 ### Mobile Net Accuracy & Loss
-<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Table.png" width=400>
+<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Mobile%20Net%20Loss%20%26%20Accuracy.jpg" width=400>
 
 ### Res Net Accuracy & Loss
-<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Mobile Net Accuracy & Loss.png" width=400>
+<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/ResNet%2050%20Accuracy%20%26%20Loss.jpg" width=400>
 
 ### VGG 16 Accuracy & Loss
-<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/VGG 16 Accuracy & Loss.png" width=400>
+<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/VGG%2016%20Model%20Accuracy%20%26%20Loss.jpg" width=400>
 
 ### Models Accuracies & Losses on Test Data
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Test Results.png" width=270>
