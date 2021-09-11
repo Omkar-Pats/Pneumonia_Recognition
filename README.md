@@ -16,12 +16,13 @@ The dataset utilized in this study comprised a complete of 5,856 chest X-ray ima
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Flow%20Chart.jpg" width=500>
 
 ### Data Augmentation.
-<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Augmentation.png" width=400>
+<img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Augmentation.png" width=900>
 
 ## Evaluation
 We used Transfer Learning and trained different models on the dataset and monitored their loss and accuracy vs epoch as shown below
 
 ### Inception V3 Accuracy & Loss
+
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Inception%20V3%20Accuracy.jpg" width=400>
 
 ### Mobile Net Accuracy & Loss
