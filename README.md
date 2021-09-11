@@ -25,12 +25,15 @@ We used Transfer Learning and trained different models on the dataset and monito
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Inception%20V3%20Accuracy.jpg" width=400>
 
 ### Mobile Net Accuracy & Loss
+
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Mobile%20Net%20Loss%20%26%20Accuracy.jpg" width=400>
 
 ### Res Net Accuracy & Loss
+
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/ResNet%2050%20Accuracy%20%26%20Loss.jpg" width=400>
 
 ### VGG 16 Accuracy & Loss
+
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/VGG%2016%20Model%20Accuracy%20%26%20Loss.jpg" width=400>
 
 ### Models Accuracies & Losses on Test Data
