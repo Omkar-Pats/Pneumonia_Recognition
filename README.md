@@ -21,19 +21,19 @@ The dataset utilized in this study comprised a complete of 5,856 chest X-ray ima
 ## Evaluation
 We used Transfer Learning and trained different models on the dataset and monitored their loss and accuracy vs epoch as shown below
 
-### Inception V3 Accuracy & Loss
+## Inception V3 Accuracy & Loss
 
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Inception%20V3%20Accuracy.jpg" width=400>
 
-### Mobile Net Accuracy & Loss
+## Mobile Net Accuracy & Loss
 
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/Mobile%20Net%20Loss%20%26%20Accuracy.jpg" width=400>
 
-### Res Net Accuracy & Loss
+## Res Net Accuracy & Loss
 
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/ResNet%2050%20Accuracy%20%26%20Loss.jpg" width=400>
 
-### VGG 16 Accuracy & Loss
+## VGG 16 Accuracy & Loss
 
 <img target="_blank" src="https://github.com/kalpesh22-21/Pneumonia_Recognition/blob/main/VGG%2016%20Model%20Accuracy%20%26%20Loss.jpg" width=400>
 
